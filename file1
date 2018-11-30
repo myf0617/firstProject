@@ -11,7 +11,7 @@ $arrRet = array(
     'errmsg' => 'xxx',
     'data' => array(
         'giftType' => 2,
-        'icon' => '//gss0.bdstatic.com/7051cy89QMgCncy6lo7D0j9wexYrbOWh7c50/yt/bonus-season/qq.png',
+        'icon' => 'xxx',
         'name' => 'Q币',
     ),
 );
